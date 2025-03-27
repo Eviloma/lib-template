@@ -9,7 +9,7 @@
     "build:declaration": "tsc --emitDeclarationOnly --project tsconfig.types.json",
     "postbuild": "rimraf tsconfig.types.tsbuildinfo",
     "prepublish": "bun run build",
-    "publish:npm": "bun prepublish && npm publish --registry=https://npm.skloresurs.com",
+    "publish:npm": "bun prepublish && npm publish",
     "lint": "biome check --write .",
     "prepare": "husky"
   },
