@@ -16,13 +16,13 @@
   "type": "module",
   "types": "./dist/index.d.ts",
   "devDependencies": {
-    "@biomejs/biome": "^1.9.4",
+    "@biomejs/biome": "1.9.4",
     "@types/bun": "latest",
-    "cz-conventional-changelog": "^3.3.0",
-    "husky": "^9.1.7",
-    "lint-staged": "^15.5.1",
-    "rimraf": "^6.0.1",
-    "tsc-files": "^1.1.4"
+    "cz-conventional-changelog": "3.3.0",
+    "husky": "9.1.7",
+    "lint-staged": "15.5.1",
+    "rimraf": "6.0.1",
+    "tsc-files": "1.1.4"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
