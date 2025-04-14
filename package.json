@@ -20,7 +20,7 @@
     "@types/bun": "latest",
     "cz-conventional-changelog": "^3.3.0",
     "husky": "^9.1.7",
-    "lint-staged": "^15.5.0",
+    "lint-staged": "^15.5.1",
     "rimraf": "^6.0.1"
   },
   "peerDependencies": {
